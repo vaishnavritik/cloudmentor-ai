@@ -1,0 +1,18 @@
+.env
+.venv/
+.venv-app/
+__pycache__/
+*.pyc
+
+embeddings.joblib
+rag_chunks.zip
+
+videos/
+audios/
+whisper/
+processed_jsons/
+rag_chunks/
+
+.DS_Store
+# Local agent configuration
+.agents/
